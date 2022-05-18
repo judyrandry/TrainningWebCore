@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mFzzDd6NUUFgcpwktXFKS4Y5noBGmxcd0Oc51/OKe0WqPf0oXZQTqpBiYSx4slix/SQwT8Xq/oQBXtILsbZjZw==",
+  "dgSpecHash": "7zM2ExwBykL7gBANbbfkSvBujcdI/dyLUIx1w5+xKdhIfRI4YEHsr0lClEKv0LNMJL7FXFE4OhDhvJ/onXp1Zw==",
   "success": true,
-  "projectFilePath": "C:\\www\\training\\TrainningWebCore\\TrainningWebCore\\TrainningWebCore.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\www\\Trainning\\TrainningWebCore\\TrainningWebCore\\TrainningWebCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Memeza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Memeza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Memeza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Memeza\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
