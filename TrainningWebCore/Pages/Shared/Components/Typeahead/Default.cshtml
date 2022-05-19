@@ -1,0 +1,38 @@
+﻿@*<div id="dropdown-list">
+  <ol>
+    <li v-for="item in listeFilters">
+      {{ item.label}}
+    </li>
+  </ol>
+</div>*@
+<form id="dropdown-list">
+  <div class="form-group">
+    <label for="productType">Type de produit</label>
+    <input type="text" class="form-control" v-model="type" id="productType" placeholder="Type de produit">
+    <p>Voila ton type de produit: {{type}}</p>
+  </div>
+  <div class="form-group">
+    <label for="exampleFormControlSelect1">Example select</label>
+    <select class="form-control" id="exampleFormControlSelect1">
+      <option value=""></option>
+      <option v-for="item in listeFilters" value="item.id">{{ item.label}}</option>
+    </select>
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+<script>
+    var app4 = new Vue({
+      el: '#dropdown-list',
+      data: {
+        listeFilters: [
+          { label: 'Filter by product name', id: 1 },
+          { label: 'Filter by location address', id: 2 },
+          { label: 'Filter by Age', id: 3 }
+        ],
+        type: "Product"
+      }
+    })
+
+</script>

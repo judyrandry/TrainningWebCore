@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\www\\Trainning\\TrainningWebCore\\TrainningWebCore\\TrainningWebCore.csproj": {}
+    "C:\\www\\training\\TrainningWebCore\\TrainningWebCore\\TrainningWebCore.csproj": {}
   },
   "projects": {
-    "C:\\www\\Trainning\\TrainningWebCore\\TrainningWebCore\\TrainningWebCore.csproj": {
+    "C:\\www\\training\\TrainningWebCore\\TrainningWebCore\\TrainningWebCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\www\\Trainning\\TrainningWebCore\\TrainningWebCore\\TrainningWebCore.csproj",
+        "projectUniqueName": "C:\\www\\training\\TrainningWebCore\\TrainningWebCore\\TrainningWebCore.csproj",
         "projectName": "TrainningWebCore",
-        "projectPath": "C:\\www\\Trainning\\TrainningWebCore\\TrainningWebCore\\TrainningWebCore.csproj",
-        "packagesPath": "C:\\Users\\Memeza\\.nuget\\packages\\",
-        "outputPath": "C:\\www\\Trainning\\TrainningWebCore\\TrainningWebCore\\obj\\",
+        "projectPath": "C:\\www\\training\\TrainningWebCore\\TrainningWebCore\\TrainningWebCore.csproj",
+        "packagesPath": "C:\\Users\\jud_ext\\.nuget\\packages\\",
+        "outputPath": "C:\\www\\training\\TrainningWebCore\\TrainningWebCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Memeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jud_ext\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
